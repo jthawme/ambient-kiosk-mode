@@ -1,0 +1,12 @@
+{
+  "name": "ambient-kiosk-mode",
+  "version": "1.0.0",
+  "description": "Kiosk mode for ambient-display, runs full screen after starting",
+  "main": "index.js",
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "deepmerge": "^4.3.1"
+  }
+}
