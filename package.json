@@ -1,6 +1,7 @@
 {
   "name": "ambient-kiosk-mode",
-  "version": "1.0.0",
+  "version": "1.0.1",
+  "type": "module",
   "description": "Kiosk mode for ambient-display, runs full screen after starting",
   "main": "index.js",
   "keywords": [],
